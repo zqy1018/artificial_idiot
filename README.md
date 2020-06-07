@@ -1,2 +1,2 @@
-# artificial_idiot
-notes on AI
+# Artificial Idiot
+Notes & toys on AI.
